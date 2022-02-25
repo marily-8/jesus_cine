@@ -1,0 +1,15 @@
+.hidden{
+    display: none;
+}
+
+.imagenes{
+    visibility: hidden;
+
+}
+
+.img{
+    display: inline-block;
+    width:180; 
+    height: 270;
+     
+}
